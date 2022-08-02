@@ -28,7 +28,7 @@ Use jupyter notebook, to run the code
 
 ## Contributors
 
-Contributed by Theena Dang (maria.cristina.dang@gmail.com)
+Contributed by [Theena Dang](maria.cristina.dang@gmail.com)
 
 ---
 
